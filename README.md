@@ -12,7 +12,7 @@ This project simulates electric vehicle (EV) charging behavior at multiple charg
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/anasbinarif/ev-simulator.git
 ```
 
 2. Install the dependencies:
